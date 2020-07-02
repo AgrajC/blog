@@ -1,0 +1,28 @@
+body{
+   background-color: #ffedb1;
+   margin:0;
+   padding:0;
+}
+.upstrip
+{
+  background-color:#ffc6b1;
+  margin:0;
+  padding:0;
+
+}
+.first{
+
+  text-align: center;
+  line-height: 200%;
+  margin:0;
+  padding:0;
+
+}
+.contain{
+  margin: auto;
+  width:50%;
+}
+p{
+  
+  line-height: 2;
+}
